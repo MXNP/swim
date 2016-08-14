@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://mxnp.github.io/swim" resolutions="1x" timestamp="1471189904191">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="index.css" crc="4016420356" ref="index"/>
+    <file name="master_a-master.css" crc="4232811632" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u83-6.png" crc="4019456428" ref="index"/>
+    <file name="u97-6.png" crc="4229532624" ref="index"/>
+    <file name="u95-6.png" crc="4035324099" ref="index"/>
+    <file name="u96-6.png" crc="267509463" ref="index"/>
+    <file name="img_9793.jpg" crc="148143960" ref="index"/>
+    <file name="u98-6.png" crc="4167589567" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4192721027" seo="true" mt="1471189857118" redirect="true"/>
+</manifest>
