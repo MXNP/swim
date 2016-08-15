@@ -1,3 +1,37 @@
+#u132
+{
+	border-style: solid;
+	border-color: #DDDDDD;
+	background-color: #FFFFFF;
+	position: fixed;
+	border-width: 0px 0px 1px;
+}
+
+#u296
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u134
+{
+	background-color: #CCCCCC;
+	position: fixed;
+}
+
+#u133-6
+{
+	position: fixed;
+}
+
+#u133-6_img
+{
+	display: block;
+	vertical-align: top;
+}
+
 #u93
 {
 	border-style: solid;

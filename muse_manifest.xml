@@ -1,22 +1,57 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://mxnp.github.io/swim" resolutions="1x" timestamp="1471238152290">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://mxnp.github.io/swim" resolutions="1x" timestamp="1471278829519">
   <folder name="css">
-    <file name="site_global.css" crc="453856629"/>
-    <file name="index.css" crc="24970531" ref="index"/>
-    <file name="master_a-master.css" crc="351508664" ref="index"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="212886295" ref="index"/>
+    <file name="master_a-master.css" crc="3777984286" ref="index:2016-spring:events"/>
+    <file name="2016-spring.css" crc="471932906" ref="2016-spring"/>
+    <file name="events.css" crc="67968964" ref="events"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
-    <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:events:2016-spring"/>
+    <file name="museutils.js" crc="183364071" ref="index:events:2016-spring"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:events:2016-spring"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:2016-spring"/>
+    <file name="webpro.js" crc="3803554875" ref="events"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="events"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="events"/>
+    <file name="touchswipe.js" crc="4038331989" ref="events"/>
+    <file name="pie.js" crc="3827607177" ref="2016-spring"/>
   </folder>
   <folder name="images">
-    <file name="u83-6.png" crc="388122144" ref="index"/>
     <file name="u97-6.png" crc="3882481093" ref="index"/>
-    <file name="u95-6.png" crc="4119085693" ref="index"/>
+    <file name="u95-6.png" crc="4073433194" ref="index"/>
     <file name="u96-6.png" crc="4171656224" ref="index"/>
     <file name="u98-6.png" crc="71436485" ref="index"/>
-    <file name="img_7434.jpg" crc="279040068" ref="index"/>
+    <file name="img_7434.jpg" crc="279040068" ref="index:2016-spring"/>
+    <file name="u133-6.png" crc="388122144" ref="index:events:2016-spring"/>
+    <file name="u278-4.png" crc="497379092" ref="events"/>
+    <file name="u282-6.png" crc="130390563" ref="events"/>
+    <file name="u283-4.png" crc="343025089" ref="events"/>
+    <file name="u288-4.png" crc="3862569915" ref="events"/>
+    <file name="u284-4.png" crc="3944452722" ref="events"/>
+    <file name="u289-4.png" crc="3760345952" ref="events"/>
+    <file name="u285-4.png" crc="4189050462" ref="events"/>
+    <file name="u290-4.png" crc="3806826854" ref="events"/>
+    <file name="u294-4.png" crc="3991436472" ref="events"/>
+    <file name="u276-4.png" crc="494211449" ref="events"/>
+    <file name="u275-4.png" crc="250771273" ref="events"/>
+    <file name="blank.gif" crc="4208392903" ref="events"/>
+    <file name="u254.png" crc="91680681" ref="events"/>
+    <file name="u254-r.png" crc="3765379336" ref="events"/>
+    <file name="u254-a.png" crc="82119450" ref="events"/>
+    <file name="u256.png" crc="388870377" ref="events"/>
+    <file name="u256-r.png" crc="4279960806" ref="events"/>
+    <file name="u256-a.png" crc="4011418183" ref="events"/>
+    <file name="u252.png" crc="325793705" ref="events"/>
+    <file name="u252-r.png" crc="4041139307" ref="events"/>
+    <file name="u252-a.png" crc="349654959" ref="events"/>
+    <file name="u136-4.png" crc="4056867525" ref="events"/>
+    <file name="u298-8.png" crc="3804595163" ref="2016-spring"/>
+    <file name="u301-4.png" crc="11589688" ref="2016-spring"/>
+    <file name="u302-4.png" crc="1854795" ref="2016-spring"/>
+    <file name="u304-4.png" crc="4062979607" ref="2016-spring"/>
   </folder>
-  <file name="index.html" crc="487965106" seo="true" mt="1471238151343" redirect="true"/>
+  <file name="index.html" crc="121430042" seo="true" mt="1471278827823" redirect="true"/>
+  <file name="events.html" crc="4169397185" seo="true" mt="1471278425164" redirect="true"/>
+  <file name="2016-spring.html" crc="400302596" seo="true" mt="1471278827826" redirect="true"/>
 </manifest>
