@@ -7,12 +7,24 @@
 	border-width: 0px 0px 1px;
 }
 
-#u296
+#u333
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
+}
+
+#u325
+{
+	position: relative;
+	background: transparent url("../images/swim.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u325
+{
+	background-image: url('../images/swim_poster_u327.png');
 }
 
 #u134
@@ -23,13 +35,14 @@
 
 #u133-6
 {
+	background-color: transparent;
+	color: #00B5E6;
+	line-height: 20px;
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
 	position: fixed;
-}
-
-#u133-6_img
-{
-	display: block;
-	vertical-align: top;
 }
 
 #u93
