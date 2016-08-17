@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://mxnp.github.io/swim" resolutions="1x" timestamp="1471358019945">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://mxnp.github.io/swim" resolutions="1x" timestamp="1471427944914">
   <folder name="css">
-    <file name="site_global.css" crc="453856629"/>
-    <file name="master_a-master.css" crc="504480974" ref="2016-spring:index:events"/>
-    <file name="2016-spring.css" crc="243727953" ref="2016-spring"/>
-    <file name="index.css" crc="146095953" ref="index"/>
-    <file name="events.css" crc="4163546224" ref="events"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="455896779" ref="2016-spring:index:events"/>
+    <file name="2016-spring.css" crc="4173373794" ref="2016-spring"/>
+    <file name="index.css" crc="3995099341" ref="index"/>
+    <file name="events.css" crc="410899392" ref="events"/>
   </folder>
   <folder name="fonts">
     <file name="ciutadella bold.woff" crc="73151891"/>
@@ -30,8 +30,14 @@
     <file name="swim.svg" crc="4182902442" ref="index"/>
     <file name="swim_poster_u327.png" crc="257559175" ref="index"/>
     <file name="img_7434.jpg" crc="279040068" ref="index:2016-spring"/>
+    <file name="u415.png" crc="3905456309" ref="2016-spring"/>
+    <file name="u418.png" crc="3905456309" ref="2016-spring"/>
+    <file name="ic_medal-small-gold_2x.png" crc="4215636454" ref="2016-spring"/>
+    <file name="ic_medal-small-silver_2x.png" crc="169010970" ref="2016-spring"/>
+    <file name="ic_medal-small-bronze_2x.png" crc="3961031007" ref="2016-spring"/>
+    <file name="u419.png" crc="3905456309" ref="2016-spring"/>
   </folder>
-  <file name="index.html" crc="3947903490" seo="true" mt="1471358018569" redirect="true"/>
-  <file name="events.html" crc="3813331881" seo="true" mt="1471357941326" redirect="true"/>
-  <file name="2016-spring.html" crc="85749254" seo="true" mt="1471358018571" redirect="true"/>
+  <file name="index.html" crc="3947903490" seo="true" mt="1471427942971" redirect="true"/>
+  <file name="events.html" crc="3813331881" seo="true" mt="1471426219886" redirect="true"/>
+  <file name="2016-spring.html" crc="4002875771" seo="true" mt="1471427943561" redirect="true"/>
 </manifest>

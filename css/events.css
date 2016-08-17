@@ -4,8 +4,8 @@
 
 .version.events /* version checker */
 {
-	color: #0000F8;
-	background-color: #2AAC70;
+	color: #000018;
+	background-color: #7DD3C0;
 }
 
 .html
@@ -146,8 +146,8 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #00B5E6;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
@@ -238,7 +238,7 @@
 #u286
 {
 	z-index: 26;
-	width: 920px;
+	width: 930px;
 	height: 4px;
 	background-color: #00B5E6;
 	margin-left: 49px;
@@ -350,7 +350,7 @@
 #u287
 {
 	z-index: 27;
-	width: 920px;
+	width: 930px;
 	height: 2px;
 	background-color: #EEEEEE;
 	margin-left: 49px;
@@ -376,8 +376,8 @@
 	width: 428px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
@@ -405,8 +405,8 @@
 	width: 428px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
@@ -653,8 +653,8 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #00B5E6;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
@@ -790,10 +790,10 @@
 
 @font-face
 {
-	font-family: '__Frank_5';
-	src: url('../fonts/frank-regular.eot');
-	src: local('☺'), url('../fonts/frank-regular.woff') format('woff');
-	font-weight: 400;
+	font-family: '__Ciutadella_3';
+	src: url('../fonts/%7bemtype%7d%20ciutadella%20light%20typeface.eot');
+	src: local('☺'), url('../fonts/ciutadella%20light.woff') format('woff');
+	font-weight: 300;
 	font-style: normal;
 }
 
@@ -808,10 +808,10 @@
 
 @font-face
 {
-	font-family: '__Ciutadella_3';
-	src: url('../fonts/%7bemtype%7d%20ciutadella%20light%20typeface.eot');
-	src: local('☺'), url('../fonts/ciutadella%20light.woff') format('woff');
-	font-weight: 300;
+	font-family: '__Frank_5';
+	src: url('../fonts/frank-regular.eot');
+	src: local('☺'), url('../fonts/frank-regular.woff') format('woff');
+	font-weight: 400;
 	font-style: normal;
 }
 

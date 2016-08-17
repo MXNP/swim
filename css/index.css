@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #B53F51;
+	color: #0000EE;
+	background-color: #2060CD;
 }
 
 .html
@@ -119,8 +119,8 @@
 	min-height: 64px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 36px;
 	font-size: 36px;
+	line-height: 36px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
@@ -165,8 +165,8 @@
 	min-height: 53px;
 	background-color: transparent;
 	color: #00B5E6;
-	line-height: 28px;
 	font-size: 28px;
+	line-height: 28px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
@@ -215,8 +215,8 @@
 	min-height: 54px;
 	background-color: transparent;
 	color: #00B5E6;
-	line-height: 28px;
 	font-size: 28px;
+	line-height: 28px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;

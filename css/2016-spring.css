@@ -4,8 +4,8 @@
 
 .version._2016_spring /* version checker */
 {
-	color: #00000E;
-	background-color: #86FE51;
+	color: #0000F8;
+	background-color: #C0A162;
 }
 
 .html
@@ -17,11 +17,12 @@
 {
 	z-index: 1;
 	width: 1280px;
-	min-height: 1000px;
+	min-height: 1359.9999999999986px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -34,19 +35,19 @@
 
 #u132
 {
-	z-index: 25;
+	z-index: 188;
 	height: 90px;
 	top: 0px;
 }
 
 #u132-bw
 {
-	z-index: 25;
+	z-index: 188;
 }
 
 #u333
 {
-	z-index: 26;
+	z-index: 189;
 	width: 218px;
 	top: 21px;
 	left: 50%;
@@ -55,7 +56,7 @@
 
 #u325
 {
-	z-index: 34;
+	z-index: 197;
 	width: 34px;
 	height: 50px;
 	margin-right: -10000px;
@@ -63,7 +64,7 @@
 
 #u134
 {
-	z-index: 33;
+	z-index: 196;
 	width: 1px;
 	height: 48px;
 	top: 22px;
@@ -73,7 +74,7 @@
 
 #u133-6
 {
-	z-index: 27;
+	z-index: 190;
 	width: 154px;
 	min-height: 42px;
 	top: 27px;
@@ -81,25 +82,43 @@
 	margin-left: -556px;
 }
 
+#pu299
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
 #u299
 {
 	z-index: 3;
-	width: 1280px;
-	position: relative;
+	height: 400px;
 	background: transparent url("../images/img_7434.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+#u299-bw
+{
+	z-index: 3;
+	height: 400px;
 }
 
 #u316
 {
 	z-index: 4;
-	width: 428px;
+	min-height: 245px;
 	background-color: #CCCCCC;
 	background-color: rgba(0,0,0,0.2);
-	position: relative;
-	margin-right: -10000px;
-	padding: 70px 777px 117.14999999999941px 75px;
+	padding-bottom: 155px;
 	-pie-background: rgba(0,0,0,0.2);
+}
+
+#u316_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1280px;
+	position: relative;
+	left: -100px;
 }
 
 #u298-8
@@ -109,76 +128,1011 @@
 	min-height: 84px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 30px;
 	font-size: 30px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 155px;
+	left: 200px;
+}
+
+#u316-bw
+{
+	z-index: 4;
+	min-height: 245px;
+}
+
+#pu415
+{
+	width: 0.01px;
+	margin-left: -1px;
+}
+
+#u415
+{
+	z-index: 17;
+	vertical-align: top;
+	width: 1px;
+	height: 720px;
+	position: relative;
+	margin-right: -10000px;
+	background: url("../images/u415.png") no-repeat 0px 0px;
+}
+
+#pu420-8
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 110px;
+	margin-left: 51px;
+}
+
+#u420-8
+{
+	z-index: 20;
+	width: 300px;
+	min-height: 84px;
+	background-color: transparent;
+	color: #00B5E6;
+	font-size: 30px;
+	line-height: 30px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
 	position: relative;
 }
 
-#u301-4
+#u421-4
 {
-	z-index: 13;
+	z-index: 28;
 	width: 220px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 19px;
+	color: #555555;
 	font-size: 16px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
+	line-height: 19px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
-	margin-top: 35px;
+	margin-top: 15px;
 	position: relative;
 }
 
-#u302-4
+#u422-4
 {
-	z-index: 17;
+	z-index: 32;
 	width: 139px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 19px;
+	color: #555555;
 	font-size: 16px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
+	line-height: 19px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
-	margin-top: 12px;
+	margin-top: 15px;
 	position: relative;
+}
+
+#u418
+{
+	z-index: 18;
+	vertical-align: top;
+	width: 1px;
+	height: 720px;
+	position: relative;
+	margin-right: -10000px;
+	left: 401px;
+	background: url("../images/u418.png") no-repeat 0px 0px;
+}
+
+#pu304-4
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 110px;
+	margin-left: 451px;
 }
 
 #u304-4
 {
-	z-index: 21;
-	width: 428px;
+	z-index: 13;
+	width: 212px;
 	min-height: 26px;
 	background-color: transparent;
 	color: #00B5E6;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	letter-spacing: 1px;
 	font-family: '__Ciutadella_3';
 	font-weight: 700;
-	margin-left: 75px;
-	margin-top: 60px;
 	position: relative;
 }
 
-#u93
+#pu435-4
+{
+	width: 0.01px;
+	margin-top: 34px;
+}
+
+#u435-4
+{
+	z-index: 59;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #555555;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u440-4
+{
+	z-index: 73;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #555555;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 130px;
+}
+
+#u443-4
+{
+	z-index: 77;
+	width: 48px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #555555;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+}
+
+#u434-4
+{
+	z-index: 36;
+	width: 36px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #555555;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 734px;
+}
+
+#u436
+{
+	z-index: 63;
+	width: 770px;
+	height: 4px;
+	background-color: #00B5E6;
+	margin-top: 3px;
+	position: relative;
+}
+
+#pu439-4
+{
+	width: 0.01px;
+	margin-top: 11px;
+}
+
+#u439-4
+{
+	z-index: 69;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u444-4
+{
+	z-index: 81;
+	width: 106px;
+	min-height: 19px;
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 130px;
+}
+
+#u446
+{
+	z-index: 89;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+	background: transparent url("../images/ic_medal-small-gold_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u445-4
+{
+	z-index: 85;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 442px;
+}
+
+#u455
+{
+	z-index: 94;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 468px;
+	background: transparent url("../images/ic_medal-small-silver_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u454-4
+{
+	z-index: 90;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 490px;
+}
+
+#u457
+{
+	z-index: 99;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 516px;
+	background: transparent url("../images/ic_medal-small-bronze_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u456-4
+{
+	z-index: 95;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 538px;
+}
+
+#u438-4
+{
+	z-index: 65;
+	width: 36px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 734px;
+}
+
+#u437
+{
+	z-index: 64;
+	width: 770px;
+	height: 2px;
+	background-color: #EEEEEE;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u512-4
+{
+	z-index: 105;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u513-4
+{
+	z-index: 109;
+	width: 106px;
+	min-height: 19px;
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 130px;
+}
+
+#u515
+{
+	z-index: 117;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+	background: transparent url("../images/ic_medal-small-gold_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u514-4
+{
+	z-index: 113;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 442px;
+}
+
+#u517
+{
+	z-index: 122;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 468px;
+	background: transparent url("../images/ic_medal-small-silver_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u516-4
+{
+	z-index: 118;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 490px;
+}
+
+#u519
+{
+	z-index: 127;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 516px;
+	background: transparent url("../images/ic_medal-small-bronze_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u518-4
+{
+	z-index: 123;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 538px;
+}
+
+#u511-4
+{
+	z-index: 101;
+	width: 36px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 734px;
+}
+
+#u510
+{
+	z-index: 100;
+	width: 770px;
+	height: 2px;
+	background-color: #EEEEEE;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u522-4
+{
+	z-index: 133;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u523-4
+{
+	z-index: 137;
+	width: 106px;
+	min-height: 19px;
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 130px;
+}
+
+#u525
+{
+	z-index: 145;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+	background: transparent url("../images/ic_medal-small-gold_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u524-4
+{
+	z-index: 141;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 442px;
+}
+
+#u527
+{
+	z-index: 150;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 468px;
+	background: transparent url("../images/ic_medal-small-silver_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u526-4
+{
+	z-index: 146;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 490px;
+}
+
+#u529
+{
+	z-index: 155;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 516px;
+	background: transparent url("../images/ic_medal-small-bronze_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u528-4
+{
+	z-index: 151;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 538px;
+}
+
+#u521-4
+{
+	z-index: 129;
+	width: 36px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 734px;
+}
+
+#u520
+{
+	z-index: 128;
+	width: 770px;
+	height: 2px;
+	background-color: #EEEEEE;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u532-4
+{
+	z-index: 161;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u439-4:hover,#u512-4:hover,#u522-4:hover,#u532-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 60px;
+	margin: 4px -10000px 0px 0px;
+}
+
+#u533-4
+{
+	z-index: 165;
+	width: 106px;
+	min-height: 19px;
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 130px;
+}
+
+#u444-4:hover,#u513-4:hover,#u523-4:hover,#u533-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 106px;
+	margin: 4px -10000px 0px 0px;
+}
+
+#u444-2,#u513-2,#u523-2,#u533-2
+{
+	visibility: hidden;/* 100% transparent text is hidden */
+}
+
+#u535
+{
+	z-index: 173;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+	background: transparent url("../images/ic_medal-small-gold_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u534-4
+{
+	z-index: 169;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 442px;
+}
+
+#u537
+{
+	z-index: 178;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 468px;
+	background: transparent url("../images/ic_medal-small-silver_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u536-4
+{
+	z-index: 174;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 490px;
+}
+
+#u539
+{
+	z-index: 183;
+	width: 18px;
+	height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 516px;
+	background: transparent url("../images/ic_medal-small-bronze_2x.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u538-4
+{
+	z-index: 179;
+	width: 20px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 538px;
+}
+
+#u445-4:hover,#u454-4:hover,#u456-4:hover,#u514-4:hover,#u516-4:hover,#u518-4:hover,#u524-4:hover,#u526-4:hover,#u528-4:hover,#u534-4:hover,#u536-4:hover,#u538-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 20px;
+	margin: 4px -10000px 0px 0px;
+}
+
+#u531-4
+{
+	z-index: 157;
+	width: 36px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 734px;
+}
+
+#u530
+{
+	z-index: 156;
+	width: 770px;
+	height: 2px;
+	background-color: #EEEEEE;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u540-4
+{
+	z-index: 184;
+	width: 212px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #00B5E6;
+	font-size: 30px;
+	line-height: 36px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	margin-top: 69px;
+	position: relative;
+}
+
+#u442
+{
+	z-index: 40;
+	width: 770px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#pu425-4
+{
+	width: 0.01px;
+}
+
+#u425-4
+{
+	z-index: 45;
+	width: 60px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #555555;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u424-4
+{
+	z-index: 41;
+	width: 120px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #555555;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-family: '__Ciutadella_3';
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 250px;
+}
+
+#u427
+{
+	z-index: 49;
+	width: 770px;
+	height: 4px;
+	background-color: #00B5E6;
+	margin-top: 3px;
+	position: relative;
+}
+
+#pu512-4,#pu522-4,#pu532-4,#pu430-4
+{
+	width: 0.01px;
+	margin-top: 15px;
+}
+
+#u430-4
+{
+	z-index: 51;
+	width: 200px;
+	min-height: 18px;
+	background-color: transparent;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u430-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 200px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u439-4:hover p,#u444-4:hover p,#u445-4:hover p,#u454-4:hover p,#u456-4:hover p,#u512-4:hover p,#u513-4:hover p,#u514-4:hover p,#u516-4:hover p,#u518-4:hover p,#u522-4:hover p,#u523-4:hover p,#u524-4:hover p,#u526-4:hover p,#u528-4:hover p,#u532-4:hover p,#u533-4:hover p,#u534-4:hover p,#u536-4:hover p,#u538-4:hover p,#u430-4:hover p
+{
+	font-family: '__Frank_5';
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u433-4
+{
+	z-index: 55;
+	width: 156px;
+	min-height: 18px;
+	background-color: #E0F8FF;
+	color: #222222;
+	font-size: 14px;
+	letter-spacing: 0px;
+	font-family: '__Frank_5';
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 250px;
+}
+
+#u433-4:hover
+{
+	background-color: #9CE9FF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 156px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u433-4:hover p
+{
+	text-decoration: underline;
+}
+
+#u428
+{
+	z-index: 50;
+	width: 770px;
+	height: 2px;
+	background-color: #EEEEEE;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u419
+{
+	z-index: 19;
+	vertical-align: top;
+	width: 1px;
+	height: 720px;
+	position: relative;
+	margin-right: -10000px;
+	left: 1281px;
+	background: url("../images/u419.png") no-repeat 0px 0px;
+}
+
+#u93,#u93-bw
 {
 	z-index: 2;
 	height: 149px;
 }
 
-#u93-bw
+@font-face
 {
-	z-index: 2;
-	margin-top: 264px;
-	height: 149px;
+	font-family: '__Frank_5';
+	src: url('../fonts/frank-regular.eot');
+	src: local('☺'), url('../fonts/frank-regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
 }
 
 @font-face
